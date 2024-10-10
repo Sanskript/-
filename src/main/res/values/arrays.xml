@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Ukraine</item>
+        <item>USA</item>
+        <item>Germany</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Kyiv</item>
+        <item>London</item>
+        <item>Berlin</item>
+    </string-array>
+</resources>

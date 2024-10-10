@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_settings"
+        android:title="Settings">
+        <menu>
+            <item android:id="@+id/sub_item1"
+                android:title="Submenu Item 1"/>
+            <item android:id="@+id/sub_item2"
+                android:title="Submenu Item 2"/>
+        </menu>
+    </item>
+
+    <!-- Додайте вибір кольору фону -->
+    <item android:id="@+id/color_red"
+        android:title="Red"/>
+    <item android:id="@+id/color_blue"
+        android:title="Blue"/>
+    <item android:id="@+id/color_green"
+        android:title="Green"/>
+    <item android:id="@+id/color_yellow"
+        android:title="Yellow"/>
+    <item android:id="@+id/color_purple"
+        android:title="Purple"/>
+    <item android:id="@+id/color_orange"
+        android:title="Orange"/>
+    <item android:id="@+id/color_pink"
+        android:title="Pink"/>
+</menu>

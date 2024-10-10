@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МійДодаток</string>
+    <string name="orientation_landscape">Альбомна орієнтація</string>
+    <string name="orientation_portrait">Книжкова орієнтація</string>
+</resources>
